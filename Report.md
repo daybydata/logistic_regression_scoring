@@ -35,8 +35,6 @@ The techniques deployed include:
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
 * Machine Learning Model 1:
   * Accurancy: 95%
   * Precision: 99%
